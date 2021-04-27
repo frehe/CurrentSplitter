@@ -1,0 +1,4 @@
+*.cdslck*
+*env
+*vscode
+*.DS_Store
